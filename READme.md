@@ -47,3 +47,10 @@
 ---
 
 Your script is now set up and ready to use.
+
+To Run the operation,  you can use  the command
+
+git-automation.ps1 "commit-message"
+
+to any projects.
+This will do the add, commit and push operatons.
