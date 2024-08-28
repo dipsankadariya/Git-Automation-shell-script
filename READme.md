@@ -3,6 +3,8 @@
 ## 1. Create the Script
 
 1. In a text editor, create a new file and save it as `git-automation.ps1` (or any preferred name).
+1. The content for the file is in the "git-automation.ps1" file.
+
 
 ## 2. Create a Directory for the Script
 
